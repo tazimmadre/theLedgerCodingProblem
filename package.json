@@ -5,7 +5,7 @@
   "main": "geektrust.js",
   "type": "module",
   "scripts": {
-    "start": "node geektrust.js",
+    "start": "node geektrust.js text.txt",
     "test": "mocha"
   },
   "keywords": [
