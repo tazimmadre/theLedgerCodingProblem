@@ -2,10 +2,10 @@
   "name": "legendco",
   "version": "1.0.0",
   "description": "bank application",
-  "main": "geektrust.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node geektrust.js text.txt",
+    "start": "node index.js text.txt",
     "test": "mocha"
   },
   "keywords": [
